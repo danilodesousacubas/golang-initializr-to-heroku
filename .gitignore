@@ -26,3 +26,5 @@ _testmain.go
 vendor/
 
 golang-initializr-to-heroku
+
+main
