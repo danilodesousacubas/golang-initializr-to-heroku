@@ -1,0 +1,13 @@
+{
+  "name": "go-initializr-to-heroku",
+  "email": "danilodesousa@gmail.com",
+  "description": "initialize blank project with basic files to run and deploy in heroku with golang",
+  "keywords": [
+    "go",
+    "blank",
+    "initializr"
+  
+  ],
+  "website": "",
+  "repository": ""
+}
